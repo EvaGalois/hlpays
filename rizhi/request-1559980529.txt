@@ -1,0 +1,1 @@
+-------------------------------------------------\r\namount=20000&mch_no=288000000033799&notify_url=http://127.0.0.1/notify.php&out_trade_no=1559980529&payment_type=mch_wechat_native&08201378DF374AC3A3DAEA6F25E03426
